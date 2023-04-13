@@ -171,7 +171,7 @@ If you like this project don't forget to give us a star
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank microverse and coding partner
+I would like to thank microverse and coding partner.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
