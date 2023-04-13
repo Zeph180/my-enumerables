@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3><b>MORSE CODE DECODER </b></h3>
+  <h3><b> CUSTOM ENUMERABLE </b></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -30,9 +30,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Book store <a name="about-project"></a>
+# 📖 Custom Enumerable <a name="about-project"></a>
 
-**Book store** Morse code decoder is a simple project built with ruby. It takes a string of morse code and converts it to english.
+**Custom Enumerable** Custom enumerable is a simple project built with ruby.
  <br>
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -50,7 +50,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Convert morse code** - This project takes a string of morse code and converts it to english.
+- **Custom Enumerable**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,7 +82,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:zeph180/book-store.git
+  git clone git@github.com:zeph180/my-enumerables.git
 ```
 
 ### Install
@@ -107,6 +107,8 @@ Example command:
 
 ```sh
   Press run code button on your IDE
+  Or 
+  ruby my-list.rb
 ```
 -
 
@@ -161,7 +163,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project buy me a cup of coffee
+If you like this project don't forget to give us a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -169,7 +171,7 @@ If you like this project buy me a cup of coffee
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank microverse
+I would like to thank microverse and coding partner
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
